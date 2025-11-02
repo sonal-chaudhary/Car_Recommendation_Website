@@ -1,0 +1,36 @@
+{
+  "car": {
+    "basicInfo": {
+      "id": "Elevate EV",
+      "name": "Honda Elevate EV",
+      "brand": "Honda",
+      "variant": "Base Variant",
+      "fuelType": "Petrol",
+      "transmission": "Manual",
+      "engineCC": "",
+      "mileage": "",
+      "seatingCapacity": null,
+      "price": {
+        "exShowroom": "Rs. 18 Lakh*\nEstimated Price in India",
+        "onRoad": ""
+      }
+    },
+    "features": {
+      "airbags": "Yes",
+      "abs": "Yes",
+      "touchscreen": "No",
+      "sunroof": "Yes",
+      "rearCamera": "Yes",
+      "cruiseControl": "No"
+    },
+    "availability": {
+      "citiesAvailable": [
+        "Delhi",
+        "Mumbai",
+        "Bangalore"
+      ],
+      "available": true
+    },
+    "images": []
+  }
+}

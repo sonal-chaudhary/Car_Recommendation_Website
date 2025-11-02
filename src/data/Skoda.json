@@ -1,0 +1,49 @@
+{
+"Sheet1":[
+ {
+  "Model Name": "Kushaq",
+  "Apr-25": 1070,
+  "May-25": 1502,
+  "Jun-25": 1767,
+  "Jul-25": 2213,
+  "Aug-25": 1524,
+  "Sep-25": 2465
+ },
+ {
+  "Model Name": "Slavia",
+  "Apr-25": 793,
+  "May-25": 1122,
+  "Jun-25": 1391,
+  "Jul-25": 1637,
+  "Aug-25": 1131,
+  "Sep-25": 1894
+ },
+ {
+  "Model Name": "Kodiaq",
+  "Apr-25": 240,
+  "May-25": 145,
+  "Jun-25": 140,
+  "Jul-25": 209,
+  "Aug-25": 225,
+  "Sep-25": 194
+ },
+ {
+  "Model Name": "Superb",
+  "Apr-25": 0,
+  "May-25": 3,
+  "Jun-25": 3,
+  "Jul-25": 20,
+  "Aug-25": 6,
+  "Sep-25": 1
+ },
+ {
+  "Model Name": "Monthly Sales Number (Total)",
+  "Apr-25": 2103,
+  "May-25": 2772,
+  "Jun-25": 3301,
+  "Jul-25": 4079,
+  "Aug-25": 2886,
+  "Sep-25": 4554
+ }
+]
+}

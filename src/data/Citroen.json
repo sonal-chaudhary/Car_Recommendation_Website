@@ -1,0 +1,49 @@
+{
+  "Sheet1": [
+    {
+      "Model Name": "Basalt Coupe",
+      "Apr-25": "-",
+      "May-25": "-",
+      "Jun-25": 579,
+      "Jul-25": 341,
+      "Aug-25": 221,
+      "Sep-25": 47
+    },
+    {
+      "Model Name": "eC3",
+      "Apr-25": 177,
+      "May-25": 150,
+      "Jun-25": 28,
+      "Jul-25": 89,
+      "Aug-25": 61,
+      "Sep-25": 90
+    },
+    {
+      "Model Name": "Aircross",
+      "Apr-25": 68,
+      "May-25": 38,
+      "Jun-25": 41,
+      "Jul-25": 103,
+      "Aug-25": 201,
+      "Sep-25": 96
+    },
+    {
+      "Model Name": "C5 Aircross",
+      "Apr-25": 0,
+      "May-25": 1,
+      "Jun-25": 1,
+      "Jul-25": 4,
+      "Aug-25": 0,
+      "Sep-25": 1
+    },
+    {
+      "Model Name": "Monthly Sales Number (Total)",
+      "Apr-25": 335,
+      "May-25": 1275,
+      "Jun-25": 711,
+      "Jul-25": 717,
+      "Aug-25": 509,
+      "Sep-25": 566
+    }
+  ]
+}

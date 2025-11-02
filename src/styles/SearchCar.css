@@ -1,0 +1,122 @@
+/* =============================
+   SEARCH RESULTS PAGE STYLING
+   ============================= */
+
+.search-results {
+  width: 90%;
+  max-width: 1500px;
+  margin: 5px auto;
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+}
+
+.search-results p {
+  text-align: center;
+  color: #ccc;
+  font-size: 1.1rem;
+}
+
+/* ---------- Car Grid ---------- */
+.car-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+/* ---------- Car Card ---------- */
+.car-card {
+  background: rgba(20, 20, 20, 0.95);
+  border: 1px solid #ff0000;
+  border-radius: 16px;
+  box-shadow: 0 0 20px rgba(255, 0, 0, 0.15);
+  padding: 30px;
+  transition: all 0.3s ease;
+}
+
+.car-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 0 25px rgba(255, 0, 0, 0.25);
+  border-color: #ff4040;
+}
+
+/* ---------- Headings ---------- */
+.car-card h3 {
+  color: #ff4040;
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+  border-bottom: 1px solid rgba(255, 0, 0, 0.3);
+  padding-bottom: 5px;
+}
+
+.car-card h4 {
+  color: #ff4040;
+  font-size: 1.2rem;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* ---------- Car Details ---------- */
+.car-card p {
+  margin: 6px 0;
+  font-size: 1rem;
+  color: #f1f1f1;
+  line-height: 1.5;
+}
+
+.car-card b {
+  color: #ff4040;
+}
+
+/* ---------- Lists (Features & Parts) ---------- */
+.car-card ul {
+  list-style: none;
+  padding-left: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 6px 20px;
+  margin-top: 5px;
+}
+
+.car-card ul li {
+  font-size: 0.95rem;
+  color: #ddd;
+  background: rgba(255, 255, 255, 0.05);
+  border-left: 3px solid #ff4040;
+  padding: 6px 10px;
+  border-radius: 6px;
+}
+
+/* ---------- Availability ---------- */
+.car-card .availability {
+  margin-top: 10px;
+}
+
+.car-card .availability p {
+  font-size: 0.95rem;
+  color: #ccc;
+}
+
+.car-card .availability span {
+  display: inline-block;
+  background: #111;
+  border: 1px solid #ff4040;
+  border-radius: 5px;
+  padding: 4px 8px;
+  margin-right: 5px;
+  color: #ff4040;
+}
+
+/* ---------- Responsive Design ---------- */
+@media (max-width: 768px) {
+  .car-card {
+    padding: 20px;
+  }
+
+  .car-card h3 {
+    font-size: 1.5rem;
+  }
+
+  .car-card ul {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
+}

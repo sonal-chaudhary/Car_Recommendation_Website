@@ -1,0 +1,43 @@
+{
+  "car": {
+    "basicInfo": {
+      "id": "Audi RS e-tron GT",
+      "name": "Audi RS e-tron GT",
+      "brand": "Audi",
+      "variant": "Base Variant",
+      "fuelType": "Petrol",
+      "transmission": "Manual",
+      "engineCC": "",
+      "mileage": "",
+      "seatingCapacity": null,
+      "price": {
+        "exShowroom": "Rs. 1.95 Cr*Get On-Road Price\n*Ex-Showroom Price in New Delhi",
+        "onRoad": ""
+      }
+    },
+    "features": {
+      "airbags": "Yes",
+      "abs": "Yes",
+      "touchscreen": "No",
+      "sunroof": "No",
+      "rearCamera": "No",
+      "cruiseControl": "No"
+    },
+    "availability": {
+      "citiesAvailable": [
+        "Delhi",
+        "Mumbai",
+        "Bangalore"
+      ],
+      "available": true
+    },
+    "images": [],
+    "partPrices": {
+      "headlight": "\u20b950,000\u2013\u20b955,000",
+      "backlight": "\u20b925,000\u2013\u20b930,000",
+      "frontBumper": "\u20b970,000\u2013\u20b975,000",
+      "rearBumper": "\u20b965,000\u2013\u20b970,000",
+      "sideMirror": "\u20b925,000\u2013\u20b930,000"
+    }
+  }
+}

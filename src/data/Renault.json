@@ -1,0 +1,40 @@
+{
+"Sheet1":[
+ {
+  "Model Name": "Triber",
+  "Apr-25": 1457,
+  "May-25": 1514,
+  "Jun-25": 1538,
+  "Jul-25": 2111,
+  "Aug-25": 1486,
+  "Sep-25": 1659
+ },
+ {
+  "Model Name": "Kiger",
+  "Apr-25": 810,
+  "May-25": 870,
+  "Jun-25": 988,
+  "Jul-25": 1053,
+  "Aug-25": 779,
+  "Sep-25": 594
+ },
+ {
+  "Model Name": "Kwid",
+  "Apr-25": 565,
+  "May-25": 634,
+  "Jun-25": 691,
+  "Jul-25": 706,
+  "Aug-25": 546,
+  "Sep-25": 628
+ },
+ {
+  "Model Name": "Monthly Sales Number (Total)",
+  "Apr-25": 2832,
+  "May-25": 3018,
+  "Jun-25": 3217,
+  "Jul-25": 3870,
+  "Aug-25": 2811,
+  "Sep-25": 2881
+ }
+]
+}

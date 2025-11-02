@@ -1,0 +1,36 @@
+{
+  "car": {
+    "basicInfo": {
+      "id": "Audi Q8 e-tron",
+      "name": "Audi Q8 e-tron",
+      "brand": "Audi",
+      "variant": "Base Variant",
+      "fuelType": "Petrol",
+      "transmission": "Manual",
+      "engineCC": "",
+      "mileage": "",
+      "seatingCapacity": null,
+      "price": {
+        "exShowroom": "Rs. 1.15 - 1.27 Cr*Get On-Road Price\n*Ex-Showroom Price in New Delhi",
+        "onRoad": ""
+      }
+    },
+    "features": {
+      "airbags": "Yes",
+      "abs": "Yes",
+      "touchscreen": "No",
+      "sunroof": "Yes",
+      "rearCamera": "No",
+      "cruiseControl": "No"
+    },
+    "availability": {
+      "citiesAvailable": [
+        "Delhi",
+        "Mumbai",
+        "Bangalore"
+      ],
+      "available": true
+    },
+    "images": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "car": {
+    "basicInfo": {
+      "id": "maruti_fronx",
+      "name": "Maruti FRONX",
+      "brand": "Maruti",
+      "variant": "Base Variant",
+      "fuelType": "Petrol",
+      "transmission": "Manual",
+      "engineCC": "998 cc - 1197 cc",
+      "mileage": "20.01 - 22.89 kmpl",
+      "seatingCapacity": 5,
+      "price": {
+        "exShowroom": "Rs. 7.58 - 13.04 Lakh*Get On-Road Price\n*Ex-Showroom Price in New Delhi",
+        "onRoad": ""
+      }
+    },
+    "features": {
+      "airbags": "Yes",
+      "abs": "Yes",
+      "touchscreen": "No",
+      "sunroof": "Yes",
+      "rearCamera": "No",
+      "cruiseControl": "Yes"
+    },
+    "availability": {
+      "citiesAvailable": [
+        "Delhi",
+        "Mumbai",
+        "Bangalore"
+      ],
+      "available": true
+    },
+    "images": []
+  }
+}

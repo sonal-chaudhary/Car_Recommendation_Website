@@ -1,0 +1,36 @@
+{
+  "car": {
+    "basicInfo": {
+      "id": "maruti_ciaz",
+      "name": "Maruti Ciaz",
+      "brand": "Maruti",
+      "variant": "Base Variant",
+      "fuelType": "Petrol",
+      "transmission": "Manual",
+      "engineCC": "1462 cc",
+      "mileage": "20.04 - 20.65 kmpl",
+      "seatingCapacity": null,
+      "price": {
+        "exShowroom": "Rs. 9.41 - 12.31 Lakh*Get On-Road Price\n*Ex-Showroom Price in New Delhi",
+        "onRoad": ""
+      }
+    },
+    "features": {
+      "airbags": "Yes",
+      "abs": "Yes",
+      "touchscreen": "No",
+      "sunroof": "Yes",
+      "rearCamera": "No",
+      "cruiseControl": "Yes"
+    },
+    "availability": {
+      "citiesAvailable": [
+        "Delhi",
+        "Mumbai",
+        "Bangalore"
+      ],
+      "available": true
+    },
+    "images": []
+  }
+}

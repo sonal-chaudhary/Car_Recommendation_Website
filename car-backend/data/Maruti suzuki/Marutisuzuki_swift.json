@@ -1,0 +1,43 @@
+{
+  "car": {
+    "basicInfo": {
+      "id": "maruti_swift",
+      "name": "Maruti Swift",
+      "brand": "Maruti",
+      "variant": "Base Variant",
+      "fuelType": "Petrol",
+      "transmission": "Manual",
+      "engineCC": "1197 cc",
+      "mileage": "24.8 - 25.75 kmpl",
+      "seatingCapacity": null,
+      "price": {
+        "exShowroom": "Rs. 6.49 - 9.64 Lakh*Get On-Road Price\n*Ex-Showroom Price in New Delhi",
+        "onRoad": ""
+      }
+    },
+    "features": {
+      "airbags": "Yes",
+      "abs": "Yes",
+      "touchscreen": "No",
+      "sunroof": "Yes",
+      "rearCamera": "Yes",
+      "cruiseControl": "Yes"
+    },
+    "availability": {
+      "citiesAvailable": [
+        "Delhi",
+        "Mumbai",
+        "Bangalore"
+      ],
+      "available": true
+    },
+    "images": [],
+    "partPrices": {
+      "headlight": "\u20b94,500\u2013\u20b96,000",
+      "backlight": "\u20b93,000\u2013\u20b94,500",
+      "frontBumper": "\u20b96,500\u2013\u20b98,000",
+      "rearBumper": "\u20b96,000\u2013\u20b97,500",
+      "sideMirror": "\u20b93,500\u2013\u20b95,000"
+    }
+  }
+}

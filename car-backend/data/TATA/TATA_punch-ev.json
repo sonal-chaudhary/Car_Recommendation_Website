@@ -1,0 +1,36 @@
+{
+  "car": {
+    "basicInfo": {
+      "id": "tata_punch_ev",
+      "name": "Tata Punch EV",
+      "brand": "Tata",
+      "variant": "Base Variant",
+      "fuelType": "Petrol",
+      "transmission": "Manual",
+      "engineCC": "",
+      "mileage": "",
+      "seatingCapacity": null,
+      "price": {
+        "exShowroom": "Rs. 9.99 - 14.44 Lakh*Get On-Road Price\n*Ex-Showroom Price in New Delhi",
+        "onRoad": ""
+      }
+    },
+    "features": {
+      "airbags": "Yes",
+      "abs": "Yes",
+      "touchscreen": "Yes",
+      "sunroof": "Yes",
+      "rearCamera": "Yes",
+      "cruiseControl": "Yes"
+    },
+    "availability": {
+      "citiesAvailable": [
+        "Delhi",
+        "Mumbai",
+        "Bangalore"
+      ],
+      "available": true
+    },
+    "images": []
+  }
+}

@@ -1,0 +1,13 @@
+[
+  { "name": "Delhi", "cars": "12,700+ Cars", "price": "From ₹45,000", "img": "/src/assets/cities/Delhi.png" },
+  { "name": "Mumbai", "cars": "10,200+ Cars", "price": "From ₹25,000", "img": "/src/assets/cities/Mumbai.png" },
+  { "name": "Bangalore", "cars": "7,000+ Cars", "price": "From ₹40,000", "img": "/src/assets/cities/Chennai.png" },
+  { "name": "Pune", "cars": "6,200+ Cars", "price": "From ₹35,000", "img": "/src/assets/cities/Mumbai.png" },
+  { "name": "Hyderabad", "cars": "6,400+ Cars", "price": "From ₹40,000", "img": "/src/assets/cities/Chennai.png" },
+  { "name": "Ahmedabad", "cars": "4,800+ Cars", "price": "From ₹35,000", "img": "/src/assets/cities/Ahmedabad.png" },
+  { "name": "Chennai", "cars": "5,300+ Cars", "price": "From ₹32,000", "img": "/src/assets/cities/Chennai.png" },
+  { "name": "Kolkata", "cars": "4,200+ Cars", "price": "From ₹30,000", "img": "/src/assets/cities/Ahmedabad.png" },
+  { "name": "Jaipur", "cars": "3,900+ Cars", "price": "From ₹28,000", "img": "/src/assets/cities/Delhi.png" },
+  { "name": "Lucknow", "cars": "3,700+ Cars", "price": "From ₹25,000", "img": "/src/assets/cities/Delhi.png" },
+  { "name": "Surat", "cars": "2,800+ Cars", "price": "From ₹26,000", "img": "/src/assets/cities/Ahmedabad.png" }
+]

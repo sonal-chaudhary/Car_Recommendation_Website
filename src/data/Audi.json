@@ -1,0 +1,94 @@
+{
+  "Sheet1": [
+    {
+      "Model Name": "Audi Q3",
+      "Apr-25": 870,
+      "May-25": 910,
+      "Jun-25": 845,
+      "Jul-25": 920,
+      "Aug-25": 890,
+      "Sep-25": 940
+    },
+    {
+      "Model Name": "Audi Q5",
+      "Apr-25": 710,
+      "May-25": 735,
+      "Jun-25": 698,
+      "Jul-25": 760,
+      "Aug-25": 745,
+      "Sep-25": 780
+    },
+    {
+      "Model Name": "Audi Q7",
+      "Apr-25": 410,
+      "May-25": 425,
+      "Jun-25": 398,
+      "Jul-25": 460,
+      "Aug-25": 438,
+      "Sep-25": 475
+    },
+    {
+      "Model Name": "Audi A4",
+      "Apr-25": 520,
+      "May-25": 548,
+      "Jun-25": 503,
+      "Jul-25": 557,
+      "Aug-25": 525,
+      "Sep-25": 572
+    },
+    {
+      "Model Name": "Audi A6",
+      "Apr-25": 335,
+      "May-25": 362,
+      "Jun-25": 341,
+      "Jul-25": 387,
+      "Aug-25": 355,
+      "Sep-25": 390
+    },
+    {
+      "Model Name": "Audi e-tron",
+      "Apr-25": 168,
+      "May-25": 172,
+      "Jun-25": 165,
+      "Jul-25": 192,
+      "Aug-25": 180,
+      "Sep-25": 205
+    },
+    {
+      "Model Name": "Audi A8L",
+      "Apr-25": 122,
+      "May-25": 135,
+      "Jun-25": 118,
+      "Jul-25": 140,
+      "Aug-25": 126,
+      "Sep-25": 155
+    },
+    {
+      "Model Name": "Audi RS5",
+      "Apr-25": 64,
+      "May-25": 72,
+      "Jun-25": 60,
+      "Jul-25": 74,
+      "Aug-25": 66,
+      "Sep-25": 78
+    },
+    {
+      "Model Name": "Audi TT",
+      "Apr-25": 45,
+      "May-25": 49,
+      "Jun-25": 42,
+      "Jul-25": 53,
+      "Aug-25": 47,
+      "Sep-25": 55
+    },
+    {
+      "Model Name": "Monthly Sales Number (Total)",
+      "Apr-25": 3234,
+      "May-25": 3408,
+      "Jun-25": 3170,
+      "Jul-25": 3543,
+      "Aug-25": 3372,
+      "Sep-25": 3750
+    }
+  ]
+}

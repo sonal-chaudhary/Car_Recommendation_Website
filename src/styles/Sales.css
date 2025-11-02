@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #0a0a0a; /* dark background */
+  color: #ccc; /* light gray text */
+}
+
+.App {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2vw;
+  flex-wrap: wrap;
+  background-color: #111; /* slightly lighter than footer */
+  padding: 2vw;
+  overflow-y: auto;
+}
+
+.dataCard {
+  background-color: #D3D3D3; /* dark card background */
+  border-radius: 0.5em;
+  box-shadow: 0 4px 12px rgba(255, 64, 64, 0.2); /* red glow shadow */
+  padding: 1em;
+  flex: 1 1 calc(33% - 2vw);
+  box-sizing: border-box;
+  margin-bottom: 2rem;
+  min-width: 280px;
+  border-top: 4px solid #ff4040; /* red accent bar */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.dataCard:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 20px rgba(255, 64, 64, 0.3);
+}
+
+.hyundaiSales,
+.renaultSales,
+.mahindraSales,
+.kiaSales,
+.toyotaSales,
+.hondaSales,
+.skodaSales,
+.tataSales {
+  height: 25rem;
+}
+
+.barChart {
+  width: 100%;
+  height: 100%;
+}
+
+h2 {
+  margin: 0 0 1rem 0;
+  font-size: 1.5rem;
+  text-align: center;
+  color: #ff4040; /* theme red heading */
+  font-weight: 600;
+}
